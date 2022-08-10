@@ -1,6 +1,5 @@
 package co.develhope.fileUploaderAndDownloaderExercise.services;
 
-import lombok.SneakyThrows;
 import org.apache.commons.io.FilenameUtils;
 import org.apache.commons.io.IOUtils;
 import org.springframework.beans.factory.annotation.Value;
